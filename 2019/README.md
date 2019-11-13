@@ -1,6 +1,6 @@
 # Entry for the 2019 [NaNoGenMo](https://nanogenmo.github.io/)
 
-- Used the file [`compound`](ftp://ftp.wwpdb.org/pub/pdb/derived_data/index/compound.idx) as the source of words for the generated "novel". This file was downloaded on 2019-11-13 (15:20, PET).
+- Used the file `compound` from PDB (ftp://ftp.wwpdb.org/pub/pdb/derived_data/index/compound.idx) as the source of words for the generated "novel". This file was downloaded on 2019-11-13 (15:20, PET).
 
 - The file was processed using `gawk` (just because is quicker that way), to extract only the protein descriptions:
 
