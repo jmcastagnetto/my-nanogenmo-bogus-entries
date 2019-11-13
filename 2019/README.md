@@ -10,13 +10,15 @@ $ gawk BEGIN {FS="\\t"} (NR > 4){print $2} < compound.idx > desc.txt
 
 - And, finally, I run the `R` script `2019-code.R` to generate the file `nanogenmo-novel.txt`
 
-That's it. Now go read ["On the importance of being structured"](2019/nanogenmo-novel.txt). And how can you, not with gems such a:
+That's it. Now go read ["On the importance of being structured"](https://github.com/jmcastagnetto/my-nanogenmo-bogus-entries/blob/master/2019/nanogenmo-novel.txt). And how can you, not with gems such a:
 
 > ... resolution antitoxin determined, structure sigr reduction
 > repressor, complex of movement anti catalytic ...
+>
 > ... Of peptide structure complex trna, m k domain rich phosphate uv pntm
 > specific of of amine catalysis cdna orotidine an project cadmium crystal
 > thermolasma domain through a phosphodiesterase crystal n complexed ...
+>
 > ... domain resistance d of crystal filamin in a
 > thermotoga of horikoshii death the nanomolar amino galactose protein ...
 
